@@ -14,3 +14,5 @@ another change to check pull command
 check git push command
 
 created new branch with github web and edited README
+
+changes to check git branch push
